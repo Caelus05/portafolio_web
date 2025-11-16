@@ -212,4 +212,3 @@ Para consultas o sugerencias sobre el proyecto, contactar a través del formular
 
 ---
 
-**Desarrollado con 💙 por TechPro Solutions - 2024**
